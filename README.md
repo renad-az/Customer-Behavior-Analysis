@@ -27,7 +27,7 @@ This Power BI project focuses on analyzing customer behavior to identify key pur
 ## Included Files
 
 - `CustomerBehavior.pbix`: Power BI report file with all visuals and analysis
-- `RawData.xlsx`: The cleaned dataset used in the report *(optional)*
+- `RawData.xlsx`: The cleaned dataset used in the report 
 - `README.md`: This file explaining the project
 
 ## Notes
